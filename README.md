@@ -198,7 +198,7 @@ Expected total runtime on a single RTX 2080 Ti: approximately 12–15 hours for 
 MIT License. Data from Yahoo Finance and FRED is subject to their respective terms of use.
 Persistent Latent States and Asymmetric Volatility: Why Explicit Regime Detection Fails to Outperform a Momentum-Volatility Baseline
 
-\section*{Acknowledgements}
+# Acknowledgements
 The author thanks Dr Yani Berdeni and Dr Nicolas Verschueren Van Rees for supervision 
 and guidance throughout this project. This work was carried out using the 
 computational facilities of the Advanced Computing Research Centre, 
