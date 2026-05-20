@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+torch>=2.0
+hmmlearn>=0.3
+arch>=5.3
+yfinance>=0.2
+pandas-datareader>=0.10
+matplotlib>=3.6
+scipy>=1.10
+tqdm>=4.65
