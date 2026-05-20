@@ -1,10 +1,8 @@
-# JoQF
-
 # Persistent Latent States and Asymmetric Volatility: Why Explicit Regime Detection Fails to Outperform a Momentum-Volatility Baseline
 
 **Sujin Subanthran**  
 Department of Engineering Mathematics, University of Bristol  
-Quantitative Finance (Taylor & Francis), submitted May 2026
+Quantitative Finance (Taylor & Francis), May 2026
 
 ---
 
@@ -189,7 +187,7 @@ Expected total runtime on a single RTX 2080 Ti: approximately 12–15 hours for 
   author  = {Subanthran, Sujin},
   journal = {Quantitative Finance},
   year    = {2026},
-  note    = {Submitted}
+  note    = {Unsubmitted}
 }
 ```
 
